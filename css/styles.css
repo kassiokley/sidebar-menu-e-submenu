@@ -15,3 +15,8 @@
   /*z index*/
   --z-fixed: 100;
 }
+
+/*Base*/
+*,::before,::after {
+  box-sizing: border-box;
+}
