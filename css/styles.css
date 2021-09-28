@@ -1,0 +1,17 @@
+:root {
+  --nav-width: 92px;
+
+  /*Colors*/
+  --first-color: #0C5DF4;
+  --bg-color: #12192C;
+  --sub-color: #B6CEFC;
+  --white-color: #FFFFFF;
+
+  /*Fonte e Tipografia*/
+  --body-font: 'Ubuntu', sans-serif;
+  --normal-font-size: 1rem;
+  --small-font-size: .875rem;
+
+  /*z index*/
+  --z-fixed: 100;
+}
