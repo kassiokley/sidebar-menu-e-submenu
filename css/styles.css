@@ -83,6 +83,7 @@ a {
 
 .nav_logo {
   color: var(--white-color);
+  font-size: var(--large-font-size);
   font-weight: 700;
 }
 
