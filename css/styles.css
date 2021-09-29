@@ -108,3 +108,7 @@ a {
 .nav_name {
   font-size: var(--small-font-size);
 }
+
+.expandir {
+  width: calc(var(--nav-width) + 9.25rem);
+}
