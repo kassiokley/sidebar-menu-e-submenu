@@ -57,3 +57,12 @@ a {
   transition: .5s;
   z-index: var(--z-fixed);
 }
+
+.nav {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
