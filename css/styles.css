@@ -100,3 +100,7 @@ a {
 .nav_link:houver {
   background-color: var(--first-color);
 }
+
+.nav_icon {
+  font-size: 1.25rem;
+}
