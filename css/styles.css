@@ -1,5 +1,5 @@
 :root {
-  --nav-width: 92px;
+  --nav-width: 80px;
 
   /*Colors*/
   --first-color: #0C5DF4;
@@ -9,6 +9,7 @@
 
   /*Fonte e Tipografia*/
   --body-font: 'Ubuntu', sans-serif;
+  --large-font-size: 2rem;
   --normal-font-size: 1rem;
   --small-font-size: .875rem;
 
