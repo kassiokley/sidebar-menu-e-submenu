@@ -73,3 +73,9 @@ a {
   align-items: center;
   margin-bottom: 2rem;
 }
+
+.nav_toggle {
+  font-size: 1.25rem;
+  padding: .75rem;
+  cursor: pointer;
+}
