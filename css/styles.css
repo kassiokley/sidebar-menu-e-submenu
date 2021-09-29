@@ -84,3 +84,19 @@ a {
   color: var(--white-color);
   font-weight: 700;
 }
+
+.nav_link {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  align-items: center;
+  padding: .75rem;
+  color: var(--white-color);
+  border-radius: .5rem;
+  margin-bottom: 1rem;
+  transition: .3s;
+  cursor: pointer;
+}
+
+.nav_link:houver {
+  background-color: var(--first-color);
+}
