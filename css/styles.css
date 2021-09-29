@@ -79,3 +79,8 @@ a {
   padding: .75rem;
   cursor: pointer;
 }
+
+.nav_logo {
+  color: var(--white-color);
+  font-weight: 700;
+}
