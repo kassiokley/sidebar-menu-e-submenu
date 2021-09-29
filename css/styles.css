@@ -1,5 +1,5 @@
 :root {
-  --nav-width: 80px;
+  --nav-width: 92px;
 
   /*Colors*/
   --first-color: #0C5DF4;
@@ -99,12 +99,12 @@ a {
   cursor: pointer;
 }
 
-.nav_link:houver {
+.nav_link:hover {
   background-color: var(--first-color);
 }
 
 .nav_icon {
-  margin: .6rem;
+  margin-right: .73rem;
   font-size: 1.25rem;
 }
 
