@@ -104,3 +104,7 @@ a {
 .nav_icon {
   font-size: 1.25rem;
 }
+
+.nav_name {
+  font-size: var(--small-font-size);
+}
