@@ -66,3 +66,10 @@ a {
   overflow: hidden;
 }
 
+.nav_brand {
+  display: grid;
+  grid-template-columns: max-content max-content;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
