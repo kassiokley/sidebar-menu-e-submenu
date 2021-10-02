@@ -133,3 +133,12 @@ a {
   justify-self: flex-end;
   transition: .5s;
 }
+
+.collapse_sublink {
+  color: var(--sub-color);
+  font-size: var(--small-font-size);
+}
+
+.collapse_sublink:hover {
+  color: var(--white-color);
+}
