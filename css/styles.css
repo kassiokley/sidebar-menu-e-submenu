@@ -151,3 +151,8 @@ a {
 .showCollapse {
   display: block;
 }
+
+.rotate {
+  transform: rotate(180deg);
+  transition: .5s;
+}
