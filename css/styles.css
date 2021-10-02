@@ -127,3 +127,8 @@ a {
 .collapse {
   grid-template-columns: 20px max-content 1fr;
 }
+
+.collapse_link {
+  justify-content: flex-end;
+  transition: .5s;
+}
