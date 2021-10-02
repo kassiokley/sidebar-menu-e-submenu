@@ -126,6 +126,7 @@ a {
 
 .collapse {
   grid-template-columns: 20px max-content 1fr;
+  gap: .75rem;
 }
 
 .collapse_link {
