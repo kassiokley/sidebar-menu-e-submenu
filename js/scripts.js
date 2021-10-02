@@ -13,3 +13,13 @@ const showMenu = (toggleId, navbarId, bodyId) => {
 }
 
 showMenu('nav-toggle', 'navbar', 'body-pd')
+
+/*Link ativo*/
+const linkColor = document.querySelectorAll('.nav_link')
+
+function colorLink() {
+  linkColor.forEach(event => event.classList.remove('active'))
+  this.classList.add('active')
+}
+
+linkColor.forEach(event => event.addEventListener('click', colorLink))
