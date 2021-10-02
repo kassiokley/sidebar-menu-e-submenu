@@ -123,3 +123,7 @@ a {
 .active {
   background-color: var(--first-color);
 }
+
+.collapse {
+  grid-template-columns: 20px max-content 1fr;
+}
