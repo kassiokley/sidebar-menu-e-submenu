@@ -147,3 +147,7 @@ a {
 .collapse_sublink:hover {
   color: var(--white-color);
 }
+
+.showCollapse {
+  display: block;
+}
