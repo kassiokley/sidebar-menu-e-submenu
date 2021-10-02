@@ -134,6 +134,11 @@ a {
   transition: .5s;
 }
 
+.collapse_menu {
+  display: none;
+  padding: .75rem 2.25rem;
+}
+
 .collapse_sublink {
   color: var(--sub-color);
   font-size: var(--small-font-size);
