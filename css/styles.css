@@ -125,7 +125,7 @@ a {
 }
 
 .collapse {
-  grid-template-columns: 20px max-content 1fr;
+  grid-template-columns: 1.5rem max-content 1fr;
   gap: .75rem;
 }
 
@@ -142,6 +142,7 @@ a {
 .collapse_sublink {
   color: var(--sub-color);
   font-size: var(--small-font-size);
+  line-height: 1.3rem;
 }
 
 .collapse_sublink:hover {
